@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Tracker",
+  "description": "An offline-first app for garment quality checkers to track their piece-rate work. It supports logging different quality categories (OK, Rework, Adas, Oil), provides a daily summary, and works in both English and Hindi.",
+  "requestFramePermissions": []
+}
